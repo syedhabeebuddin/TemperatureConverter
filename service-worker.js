@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TemperatureConverter/precache-manifest.ab5584f1e902e88f55fb4c085952be04.js"
+  "/TemperatureConverter/precache-manifest.0bb477b12bce490b48195805df53e471.js"
 );
 
 self.addEventListener('message', (event) => {

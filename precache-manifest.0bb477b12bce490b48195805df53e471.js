@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b678e7de8d237a843f0d52a9ebaf1135",
+    "revision": "9fa345a093d7a5ffb08ec0aaf0ad8b33",
     "url": "/TemperatureConverter/index.html"
   },
   {
-    "revision": "235ef0a43468f76aec77",
+    "revision": "c0f1405efac3744c1b01",
     "url": "/TemperatureConverter/static/css/main.0afdf6b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TemperatureConverter/static/js/2.e8513ea4.chunk.js.LICENSE"
   },
   {
-    "revision": "235ef0a43468f76aec77",
-    "url": "/TemperatureConverter/static/js/main.27d0dacb.chunk.js"
+    "revision": "c0f1405efac3744c1b01",
+    "url": "/TemperatureConverter/static/js/main.b9c98ebe.chunk.js"
   },
   {
     "revision": "3a54dad58864d10f64ca",
