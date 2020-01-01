@@ -1,6 +1,7 @@
 {
   "name": "demoapp",
   "version": "0.1.0",
+  "homepage": "https://syedhabeebuddin.github.io/TemperatureConverter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
