@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TemperatureConverter/static/css/main.0afdf6b9.chunk.css",
-    "main.js": "/TemperatureConverter/static/js/main.b9c98ebe.chunk.js",
-    "main.js.map": "/TemperatureConverter/static/js/main.b9c98ebe.chunk.js.map",
+    "main.css": "/TemperatureConverter/static/css/main.d8c7fcdc.chunk.css",
+    "main.js": "/TemperatureConverter/static/js/main.bc6890fe.chunk.js",
+    "main.js.map": "/TemperatureConverter/static/js/main.bc6890fe.chunk.js.map",
     "runtime-main.js": "/TemperatureConverter/static/js/runtime-main.624b03b8.js",
     "runtime-main.js.map": "/TemperatureConverter/static/js/runtime-main.624b03b8.js.map",
     "static/js/2.e8513ea4.chunk.js": "/TemperatureConverter/static/js/2.e8513ea4.chunk.js",
     "static/js/2.e8513ea4.chunk.js.map": "/TemperatureConverter/static/js/2.e8513ea4.chunk.js.map",
     "index.html": "/TemperatureConverter/index.html",
-    "precache-manifest.0bb477b12bce490b48195805df53e471.js": "/TemperatureConverter/precache-manifest.0bb477b12bce490b48195805df53e471.js",
+    "precache-manifest.b1a9dd52b8711937a6ddea607387ec90.js": "/TemperatureConverter/precache-manifest.b1a9dd52b8711937a6ddea607387ec90.js",
     "service-worker.js": "/TemperatureConverter/service-worker.js",
-    "static/css/main.0afdf6b9.chunk.css.map": "/TemperatureConverter/static/css/main.0afdf6b9.chunk.css.map",
+    "static/css/main.d8c7fcdc.chunk.css.map": "/TemperatureConverter/static/css/main.d8c7fcdc.chunk.css.map",
     "static/js/2.e8513ea4.chunk.js.LICENSE": "/TemperatureConverter/static/js/2.e8513ea4.chunk.js.LICENSE",
     "static/media/logo.svg": "/TemperatureConverter/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.624b03b8.js",
     "static/js/2.e8513ea4.chunk.js",
-    "static/css/main.0afdf6b9.chunk.css",
-    "static/js/main.b9c98ebe.chunk.js"
+    "static/css/main.d8c7fcdc.chunk.css",
+    "static/js/main.bc6890fe.chunk.js"
   ]
 }
