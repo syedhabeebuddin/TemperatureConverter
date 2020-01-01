@@ -46,6 +46,21 @@
   border-color: blue;
 }
 
+.FancyBorder-orange {
+  border-color: #FF8033;
+}
+
 .Dialogue-title {
   margin: 0;
+}
+
+.midBox{
+  padding: 50px;
+  margin-left: 10%;  
+  margin-top: 2%;
+  width: 70%;
+}
+
+.textClass{
+  font-weight: bold;
 }

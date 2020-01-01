@@ -424,14 +424,17 @@ class Calculator extends React.Component{
         <input value={this.state.temperature} onChange={this.handleChange}></input>
         <BoilingVerdict celcius={parseFloat(this.state.temperature)} />
       </fieldset> */
-      <div>
-        <TemperatureInput scale='c' temperature={celcius} 
-           onTemperatureChange={this.handleCelciusChange}></TemperatureInput>
+      <div className="midBox">
+        <Dialogue title="Temparature Converter" 
+           message="Utility to convert the temperature between Celcius and Fahrenheit.">
+          <TemperatureInput scale='c' temperature={celcius} 
+            onTemperatureChange={this.handleCelciusChange}></TemperatureInput>
 
-        <TemperatureInput scale='f' temperature={fahrenheit} 
-           onTemperatureChange = {this.handleFahrenheitChange}></TemperatureInput>
+          <TemperatureInput scale='f' temperature={fahrenheit} 
+            onTemperatureChange = {this.handleFahrenheitChange}></TemperatureInput>
 
            <BoilingVerdict celcius={parseFloat(celcius)}></BoilingVerdict>
+        </Dialogue>
       </div>
     );
   }
@@ -461,7 +464,7 @@ class TemperatureInput extends React.Component{
 
     return(
       <fieldset>
-        <legend>Enter Temperature in {scaleNames[scale]}</legend>
+        <legend className="textClass">Enter Temperature in {scaleNames[scale]}</legend>
         <input value={temperature} onChange={this.handleChange}></input>
       </fieldset>
 
@@ -499,7 +502,7 @@ function FancyBorder(props){
 
 function Dialogue(props){
   return(
-    <FancyBorder color="blue">
+    <FancyBorder color="orange">
       <h1 className="Dialogue-title">
         {props.title}
       </h1>
