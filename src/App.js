@@ -571,6 +571,6 @@ class SignUpDialogue extends React.Component{
 //export default EssayForm;
 //export default FlavorForm;
 //export default Reservation;
-//export default Calculator;
+export default Calculator;
 //export default WelcomeDialogue;
-export default SignUpDialogue;
+//export default SignUpDialogue;
